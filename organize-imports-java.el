@@ -1,6 +1,6 @@
 ;;; organize-imports-java.el --- Automatically organize imports in Java code  -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2018-2025  Shen, Jen-Chieh
+;; Copyright (C) 2018-2026  Shen, Jen-Chieh
 ;; Created date 2018-04-16 13:12:01
 
 ;; Author: Shen, Jen-Chieh <jcs090218@gmail.com>
